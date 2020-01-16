@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540296751571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4025483620",
+    "id" : "680A6548",
+    "lastKnownWriteTime" : 1540296849,
+    "last_content_update" : 1540296849140,
+    "path" : "~/R/Trial/codes/MyClassification.r",
+    "project_path" : "codes/MyClassification.r",
+    "properties" : {
+        "cursorPosition" : "1,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
